@@ -2,3 +2,5 @@
 Project Objective
 
 To conduact a comprehensive analysis of Blinkit's sales performance,customer satisfaction and inventory distribution to identify key insights abd opportunities for optimization using various KPIs and visualizations in PowerBI.
+##Dataset used
+- <a href="https://github.com/mdeeepa97/Blinkit-Grocery-Data-Analysis/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>

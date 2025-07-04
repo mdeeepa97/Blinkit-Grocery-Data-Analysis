@@ -2,10 +2,10 @@
 Project Objective
 
 To conduact a comprehensive analysis of Blinkit's sales performance,customer satisfaction and inventory distribution to identify key insights abd opportunities for optimization using various KPIs and visualizations in PowerBI.
-##Dataset used
+## Dataset used
 - <a href="https://github.com/mdeeepa97/Blinkit-Grocery-Data-Analysis/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
 
-##Questions (KPIs)
+## Questions (KPIs)
 1. Analyze the impact of fat content on total sales.
 Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content. 
 2. Identify the performance of different item types in terms of total sales.
